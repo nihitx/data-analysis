@@ -48,3 +48,4 @@ for enrollment in enrollments:
 
 print(enrollments[0])
 print('------enrollment cleaned up -----------')
+
